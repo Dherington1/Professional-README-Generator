@@ -1,31 +1,35 @@
-#Professional README Generator
-License: MIT
+README generator
+mit
 
-#Description
-This project is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. When the application runs, it presents a series of prompts in the command line to the user to fill in different sections in the README. Once the user is done answering all the questions, the final readme is generated and stored in the output folder.
-
-#Table of Contents
 Description
-Demonstration
-Technologies
+it allows the user to create a readme file
+
+Table of Contents
+Description
 Installation
 Usage
 License
+Contributing
+Tests
+Questions
+Installation Instructions
+install inquire and npm
 
-#Demonstration
+Usage Instructions
+you run this application in the terminal
 
-#Technologies
-Node.js
-Inquirer.js
+License
+This application is covered by the MIT License, the terms of which can be found here.
 
-#Installation
-To install dependencies, run the following:
-  npm init
-  npm install inquirer
-  
-#Usage
-After installing the dependencies, run the application with
-  node index.js
-  
-#License
-This repository is licensed under the MIT license.
+Contributing Members
+N/a
+
+Testing
+need to run node index in terminal
+
+Questions/Inquiries
+GitHub Profile
+GitHub Profile
+
+Email
+Dherington1@comcast.net
