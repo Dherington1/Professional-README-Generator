@@ -16,7 +16,7 @@
   ## Installation Instructions 
   you will need inquire and npm installed
   ## Usage Instructions
-  run this application in the terminal
+  In the terminal CD into develop then run 'node index.js' in terminal
   ## License
   This application is covered by the MIT License, the terms of which can be found [here](https://opensource.org/licenses/MIT).
   ## Contributing Members
